@@ -1,4 +1,4 @@
-# simpe-startup-page
+# simple-startup-page
 Simple start up page using HTML/CSS/Bootstrap
 StartUp Page
 Welcome to StartUp Page - the biggest startup event of the year! 🚀
